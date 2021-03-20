@@ -1,0 +1,12 @@
+{
+    "port": "80",
+    "ssl_port": "443",
+    "root_dir": "./hosts/",
+    "index_component": "main",
+    "file_options": "options",
+    "file_controller": "accept",
+    "file_view": "view",
+    "options_extension": ".json",
+    "controller_extension": ".go",
+    "view_extension": ".html"
+}
